@@ -1,1 +1,2 @@
 hai
+these changes are done for soft reset
