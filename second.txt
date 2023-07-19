@@ -1,3 +1,8 @@
 hai
+<<<<<<< HEAD
 
 new one for hard reset
+=======
+for hard reset
+new one for hard reset
+>>>>>>> 273aadf778fce6f001aa6ea6d235c9504e3d98ac
